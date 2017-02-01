@@ -9,3 +9,6 @@
 
 #Ignore vim files
 *.swp
+
+#Ignore binary files
+*.o
