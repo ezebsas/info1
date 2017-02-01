@@ -10,7 +10,7 @@ int descendente( int a, int b );
 int main(){
   int orden; /* 1 para el orden ascendente o 2 para el orden descendente */
   int contador; /* contador */
-  int a[ TAMANIO ] = { 2, 6, 4, 8, 10, 12, 89, 68, 45, 37 }; /* inicializa el arreglo a */
+  int a[ TAMANIO ] = { 12, 6, 4, 8, 10, 12, 89, 68, 45, 37 }; /* inicializa el arreglo a */
 
   printf( "Introduzca 1 para ordenar en forma ascendente,\n"
       "Introduzca 2 para ordenar en forma descendente: " );
